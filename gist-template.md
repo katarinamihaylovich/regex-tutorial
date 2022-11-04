@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# Regex Tutorial
 
 As a web development student, I wanted to create a tutroial that would explain a particular regex by breaking down its components and exploring the search patterns involved.
 
 ## Summary
 
-A regular expression, or regex for short, is a sequence of characters specifies search pattern in text. They consist of many components, many of which I break down below. The regex I chose to focus on is an email address template. 
+A regular expression, or regex for short, is a sequence of characters specifies search pattern in text. They consist of many components, many of which I break down below. The regex I chose to focus on is an email address template, which included anchors, quantifiers, character classes, grouping, and bracket expressions. The email address consists of three main sections broken up by an @ symbol and a period. Further explanation of the regex can be found by scrolling down or clicking the below links.
 
 Matching an email
 ```/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/```
