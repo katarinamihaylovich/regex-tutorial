@@ -1,10 +1,10 @@
 # Title (replace with your title)
 
-Introductory paragraph (replace this with your text)
+As a web development student, I wanted to create a tutroial that would explain a particular regex by breaking down its components and exploring the search patterns involved.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+A regular expression, or regex for short, is a sequence of characters specifies search pattern in text. They consist of many components, many of which I break down below. The regex I chose to focus on is an email address template. 
 
 Matching an email
 ```/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/```
@@ -70,4 +70,9 @@ Brackets are used to enclose a list of characters. A bracket expression matches 
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Katarina Mihaylovich
+
+Katarina Mihaylovich is a Los Angeles-based coding student at UCLA Extension. 
+https://github.com/katarinamihaylovich
+
+
